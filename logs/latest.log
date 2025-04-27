@@ -1,18 +1,14 @@
-[00:01:32] [Server thread/INFO]: Lorenx_YT lost connection: Disconnected
-[00:01:32] [Server thread/INFO]: Lorenx_YT left the game
-[00:01:34] [User Authenticator #60/INFO]: UUID of player Lorenx_YT is 873c7f17-3058-4f6d-a1e9-fb8741236f1a
-[00:01:35] [Server thread/INFO]: Lorenx_YT[/127.114.165.101:39629] logged in with entity id 644533 at (716.618664449869, 64.0, -291.85449839316453)
-[00:01:35] [Server thread/INFO]: Lorenx_YT joined the game
-[00:04:05] [Server thread/INFO]: Lorenx_YT lost connection: Disconnected
-[00:04:05] [Server thread/INFO]: Lorenx_YT left the game
-[00:06:37] [User Authenticator #61/INFO]: UUID of player Lorenx_YT is 873c7f17-3058-4f6d-a1e9-fb8741236f1a
-[00:06:37] [Server thread/INFO]: Lorenx_YT[/127.114.165.101:39763] logged in with entity id 647787 at (79.5, 57.0, -38.69681840110292)
-[00:06:37] [Server thread/INFO]: Lorenx_YT joined the game
-[00:14:26] [Server thread/INFO]: xenotix88 lost connection: Disconnected
-[00:14:26] [Server thread/INFO]: xenotix88 left the game
-[00:20:46] [Server thread/INFO]: Lorenx_YT lost connection: Disconnected
-[00:20:46] [Server thread/INFO]: Lorenx_YT left the game
-[00:34:38] [Server thread/INFO]: GiorGiorgio01 was slain by Zombified Piglin
-[00:53:55] [Server thread/INFO]: GiorGiorgio01 lost connection: Disconnected
-[00:53:55] [Server thread/INFO]: GiorGiorgio01 left the game
-[00:54:55] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:19:37] [User Authenticator #29/INFO]: UUID of player GiorGiorgio01 is 1b07f984-58d7-4ac2-8461-4147db965af0
+[01:19:38] [Server thread/INFO]: GiorGiorgio01[/127.147.63.212:56965] logged in with entity id 497037 at (2405.6671979257862, 87.0, 583.6095249157386)
+[01:19:38] [Server thread/INFO]: GiorGiorgio01 joined the game
+[02:17:00] [Server thread/INFO]: GiorGiorgio01 was blown up by Creeper
+[02:39:09] [Server thread/INFO]: Villager class_1646['Villager'/519852, l='ServerLevel[world]', x=1667.30, y=111.00, z=377.30] died, message: 'Villager was squished too much'
+[03:20:44] [Server thread/INFO]: GiorGiorgio01 lost connection: Disconnected
+[03:20:44] [Server thread/INFO]: GiorGiorgio01 left the game
+[03:21:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:59:42] [User Authenticator #30/INFO]: UUID of player GiorGorgio is 179912e9-66f5-4bc7-a2cd-20e2895e9e25
+[13:59:43] [Server thread/INFO]: GiorGorgio[/127.221.198.216:49491] logged in with entity id 533745 at (2013.9924442013862, 96.0, 318.98130035083943)
+[13:59:43] [Server thread/INFO]: GiorGorgio joined the game
+[15:28:08] [Server thread/INFO]: GiorGorgio lost connection: Disconnected
+[15:28:08] [Server thread/INFO]: GiorGorgio left the game
+[15:29:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
